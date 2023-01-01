@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6638f8a0-9239-470f-a44b-82b19f66a951}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7e7302ad-0bcb-49da-9275-06dbe97dd2f6}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{625b7d16-61f5-48b6-8030-989b6f3c54ff}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Face.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RGB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Test.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Face.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RGB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TestDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TestView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="RES\about.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\app.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\AR_DOWN.ICO">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\AR_LEFT.ICO">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\AR_LFDWN.ICO">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\AR_RGTUP.ICO">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\AR_RIGHT.ICO">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\AR_UP.ICO">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\down.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\draw.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\exit.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Help.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\left.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\minus.ICO">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\plus.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\reset.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\right.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Test.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Test.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\TestDoc.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\up.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>
